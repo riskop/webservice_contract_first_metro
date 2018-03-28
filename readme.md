@@ -1,4 +1,5 @@
 web service, contract first
+---------------------------
 
 data structures in a separate XSD (not in the WSDL)
 
